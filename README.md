@@ -77,67 +77,67 @@ httpx -l urls.txt -td -cff finger.json
 
 ### 邮件系统
 
-**历史收录：**Coremail、TurboMail、U-Mail、WinWebMail、Magic Winmail、亿邮邮件系统。
+**历史收录：** Coremail、TurboMail、U-Mail、WinWebMail、Magic Winmail、亿邮邮件系统。
 
 **新增收录 ：** 
 
 ### 网络 / 安全设备
 
-**历史收录：**深信服 SSL VPN/AC/AF/EDR/WAF、奇安信天眼、奇安信网神 SecGate、绿盟 WAF/IPS、山石网科 Hillstone、天融信 NGFW/TopApp-LB、启明星辰天清汉马、安恒明御 WAF、安恒玄武盾、网御星云 SecFox、网康 NGFW、华为 USG、华为 eSpace、H3C、锐捷、海康威视、大华、宇视。
+**历史收录：** 深信服 SSL VPN/AC/AF/EDR/WAF、奇安信天眼、奇安信网神 SecGate、绿盟 WAF/IPS、山石网科 Hillstone、天融信 NGFW/TopApp-LB、启明星辰天清汉马、安恒明御 WAF、安恒玄武盾、网御星云 SecFox、网康 NGFW、华为 USG、华为 eSpace、H3C、锐捷、海康威视、大华、宇视。
 
 **新增收录 ：** 
 
 ### 堡垒机 / 运维
 
-**历史收录：**JumpServer、齐治堡垒机、行云堡垒。
+**历史收录：** JumpServer、齐治堡垒机、行云堡垒。
 
 **新增收录 ：** 
 
 ### 运维面板
 
-**历史收录：**宝塔面板、aaPanel、1Panel、小皮面板（phpStudy）。
+**历史收录：** 宝塔面板、aaPanel、1Panel、小皮面板（phpStudy）。
 
 **新增收录 ：** 
 
 ### 编辑器 / 报表 / BI
 
-**历史收录：**KindEditor、UEditor、FineReport、FineBI、Smartbi、永洪 BI、DataEase。
+**历史收录： **KindEditor、UEditor、FineReport、FineBI、Smartbi、永洪 BI、DataEase。
 
 **新增收录 ：** 
 
 ### 协同 / SaaS
 
-**历史收录：**钉钉、企业微信、飞书 / Lark、小鹅通、石墨文档、金山文档、腾讯文档、Teambition、Tower。
+**历史收录：** 钉钉、企业微信、飞书 / Lark、小鹅通、石墨文档、金山文档、腾讯文档、Teambition、Tower。
 
 **新增收录 ：** 
 
 ### 监控 / 测试 / 知识库
 
-**历史收录：**Nightingale（夜莺）、MeterSphere、MaxKB、ShowDoc、YApi、Apifox、Eolinker。
+**历史收录：** Nightingale（夜莺）、MeterSphere、MaxKB、ShowDoc、YApi、Apifox、Eolinker。
 
 **新增收录 ：** 
 
 ### Web 服务器 / 容器
 
-**历史收录：**Tengine、OpenResty。
+**历史收录：** Tengine、OpenResty。
 
 **新增收录 ：** 
 
 ### CDN / WAF
 
-**历史收录：**加速乐（Jiasule）、ChinaCache、白山云 CDN、又拍云 CDN、七牛云 CDN、UCloud CDN、京东云 CDN、腾讯云 EdgeOne、阿里云 WAF、腾讯云 WAF、百度云 WAF、宝塔 WAF、安全狗、云锁、知道创宇创宇盾。
+**历史收录：** 加速乐（Jiasule）、ChinaCache、白山云 CDN、又拍云 CDN、七牛云 CDN、UCloud CDN、京东云 CDN、腾讯云 EdgeOne、阿里云 WAF、腾讯云 WAF、百度云 WAF、宝塔 WAF、安全狗、云锁、知道创宇创宇盾。
 
 **新增收录 ：** 
 
 ### 代码托管
 
-**历史收录：**Gitea（中文部署）、Gogs、Coding。
+**历史收录：** Gitea（中文部署）、Gogs、Coding。
 
 **新增收录 ：** 
 
 ### 其他
 
-**历史收录：**PaddlePaddle、EasyImage、ChatGLM-Web、WordPress 国产主题。
+**历史收录：** PaddlePaddle、EasyImage、ChatGLM-Web、WordPress 国产主题。
 
 **新增收录 ：** 
 
