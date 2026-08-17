@@ -164,3 +164,9 @@ httpx -l urls.txt -td -cff finger.json
   - `网络 / 安全设备`: 新增迪普科技、盈高科技 ASM 指纹。
 ```
 
+```
+## 更新日志
+- [2026-08-17] 更新:
+-本次更新从FingerprintHub里面指纹库格式转化为httpx可用的格式
+```
+

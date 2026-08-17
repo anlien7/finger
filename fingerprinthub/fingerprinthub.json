@@ -1,0 +1,1955 @@
+{
+  "apps": {
+    "Joomla": {
+      "cats": [
+        1
+      ],
+      "description": "joomla",
+      "website": "https://support.google.com/youtube/answer/7682560?hl=en",
+      "icon": "Joomla.png",
+      "html": [
+        "<meta\\ name=\"keywords\"\\ content=\"joomla,\\ joomla\"\\ />",
+        "content=\"joomla"
+      ],
+      "scriptSrc": [
+        "\\b/media/system/js/core\\.js\\b",
+        "\\b/media/system/js/mootools\\-core\\.js\\b"
+      ]
+    },
+    "Xoops": {
+      "cats": [
+        4
+      ],
+      "description": "xoops",
+      "website": "https://support.google.com/chrome/answer/95346?hl=fa&co=GENIE.Platform=Desktop",
+      "icon": "Xoops.png",
+      "scriptSrc": [
+        "\\binclude/xoops\\.js\\b"
+      ]
+    },
+    "Finecms": {
+      "cats": [
+        1
+      ],
+      "description": "finecms",
+      "website": "https://honto.jp/store/detail_1570050_14HB320.html",
+      "icon": "Finecms.png",
+      "html": [
+        "copyright\"\\ content=\"finecms",
+        "dayrui@gmail\\.com",
+        "powered\\ by\\ finecms"
+      ],
+      "scriptSrc": [
+        "\\b/statics/js/dayrui\\.js\\b"
+      ]
+    },
+    "Antd-admin": {
+      "cats": [
+        4
+      ],
+      "description": "antd-admin",
+      "website": "https://ant.design/",
+      "icon": "Antd-admin.png",
+      "html": [
+        "//!\\ umi\\ version:",
+        "/@@/devscripts\\.js",
+        "/umi\\.js\"\\ html:\"@@/devscripts\\.js"
+      ],
+      "scriptSrc": [
+        "\\b/umi\\.js\\b"
+      ]
+    },
+    "Apache-superset": {
+      "cats": [
+        22
+      ],
+      "description": "superset",
+      "website": "https://httpd.apache.org/",
+      "icon": "Apache-superset.png",
+      "html": [
+        "<title>superset</title>",
+        "src=\"/static/assets/images/superset\\-logo\\-"
+      ]
+    },
+    "Apache-airflow": {
+      "cats": [
+        22
+      ],
+      "description": "airflow",
+      "website": "https://httpd.apache.org/",
+      "icon": "Apache-airflow.png",
+      "html": [
+        "<span>airflow</span>",
+        "\\bairflow\\b",
+        "src=\"/static/pin_100\\.png\""
+      ]
+    },
+    "Apache-hadoop": {
+      "cats": [
+        22
+      ],
+      "description": "hadoop",
+      "website": "https://httpd.apache.org/",
+      "icon": "Apache-hadoop.png",
+      "html": [
+        "\\b/static/hadoop\\-st\\.png\\b",
+        "\\bparsehadoopprogress\\b"
+      ]
+    },
+    "Drupal": {
+      "cats": [
+        1
+      ],
+      "description": "drupal",
+      "website": "https://annai.co.jp/drupal",
+      "icon": "Drupal.png",
+      "html": [
+        "\\b/sites/all/modules/\\b",
+        "\\b/sites/all/themes/\\b",
+        "\\b/sites/default/files/\\b",
+        "\\bdrupal\\.settings\\b",
+        "powered\\ by\\ <a\\ href=\"https://www\\.drupal\\.org\">drupal</a>",
+        "jquery\\.extend\\(drupal\\.settings"
+      ],
+      "scriptSrc": [
+        "\\b/misc/drupal\\.js\\b"
+      ]
+    },
+    "Fanpusoft-construction-work-oa": {
+      "cats": [
+        4
+      ],
+      "description": "fanpusoft-construction-work-oa",
+      "website": "https://www.fedex.com/en-us/tracking.html",
+      "icon": "Fanpusoft-construction-work-oa.png",
+      "scriptSrc": [
+        "\\b/dwr/interface/loginservice\\.js\\b"
+      ]
+    },
+    "Deshang-dsmall": {
+      "cats": [
+        4
+      ],
+      "description": "deshang-dsmall",
+      "website": "https://forum.gamer.com.tw/B.php?bsn=60599",
+      "icon": "Deshang-dsmall.png",
+      "scriptSrc": [
+        "/static/plugins/js/dialog/dialog\\.js\"\\ id=\"dialog_js\""
+      ]
+    },
+    "Phpecms": {
+      "cats": [
+        1
+      ],
+      "description": "phpecms",
+      "website": "https://www.reddit.com/r/jobsearchhacks/comments/11s684l/the_real_way_to_write_your_resume_using_chatgpt/",
+      "icon": "Phpecms.png",
+      "scriptSrc": [
+        "\\b/plus/laydate/laydate\\.js\\b"
+      ]
+    },
+    "Hanming-video-conferencing": {
+      "cats": [
+        4
+      ],
+      "description": "hanming-video-conferencing",
+      "website": "https://www.prestige-av.com/help/account",
+      "icon": "Hanming-video-conferencing.png",
+      "html": [
+        "class=\"win_introduce"
+      ],
+      "scriptSrc": [
+        "\\b/resources/fmweb/other/js/login\\.js\\b"
+      ]
+    },
+    "Fan-pu-jian-zhu-gong-cheng-shi-gong-oa": {
+      "cats": [
+        4
+      ],
+      "description": "泛普建筑工程施工oa",
+      "website": "https://fancorp.jp/",
+      "icon": "Fan-pu-jian-zhu-gong-cheng-shi-gong-oa.png",
+      "scriptSrc": [
+        "\\bdwr/interface/loginservice\\.js\\b"
+      ]
+    },
+    "Ufttt-iot": {
+      "cats": [
+        4
+      ],
+      "description": "ufttt-iot",
+      "website": "https://forum.gamer.com.tw/B.php?bsn=18072",
+      "icon": "Ufttt-iot.png",
+      "scriptSrc": [
+        "src=\"sdkjs/uftttsdk2\\.js\""
+      ]
+    },
+    "Hp-ilo": {
+      "cats": [
+        4
+      ],
+      "description": "hp-ilo",
+      "website": "https://www.hp.com/jp-ja/home.html?msockid=1a8bb0652a4b6362361da7d12b6362c9",
+      "icon": "Hp-ilo.png",
+      "html": [
+        "href=\"http://www\\.hp\\.com/go/ilo"
+      ],
+      "scriptSrc": [
+        "\\bjs/ilo\\.js\\b"
+      ]
+    },
+    "Kyxscms": {
+      "cats": [
+        1
+      ],
+      "description": "kyxscms",
+      "website": "https://forum.xnxx.com/",
+      "icon": "Kyxscms.png",
+      "html": [
+        "<script\\ src=\"/public/static/layer/layer\\.js\">",
+        "\\bgoodbook\\-tabcont\\b",
+        "href=\"/template/home/default_web/css/style\\.css\""
+      ]
+    },
+    "Kxmail": {
+      "cats": [
+        4
+      ],
+      "description": "kxmail",
+      "website": "http://erodera.net/1579.html",
+      "icon": "Kxmail.png",
+      "html": [
+        "\\blo_computername\\b",
+        "powered\\ by\\ <a\\ href=\"http://www\\.kxmail\\.net"
+      ],
+      "scriptSrc": [
+        "\\b/systemfunction\\.pack\\.js\\b"
+      ]
+    },
+    "Promise-webpam": {
+      "cats": [
+        4
+      ],
+      "description": "promise-webpam",
+      "website": "https://ejje.weblio.jp/content/promise",
+      "icon": "Promise-webpam.png",
+      "html": [
+        "\\bjs/promise/themes/apple/images/logo_promise\\.png\\b"
+      ],
+      "scriptSrc": [
+        "src=\"js/dojo/promise\\.js"
+      ]
+    },
+    "Yichao-system": {
+      "cats": [
+        4
+      ],
+      "description": "yichao-system",
+      "website": "https://es.ccm.net/descargas/videojuegos/6560-gta-san-andreas/",
+      "icon": "Yichao-system.png",
+      "scriptSrc": [
+        "src=\"amy/webos/jpmanager\\.js\""
+      ]
+    },
+    "Pcitc-sslvpn": {
+      "cats": [
+        33
+      ],
+      "description": "pcitc-sslvpn",
+      "website": "https://www.techyv.com/article/top-10-interesting-facts-about-alexa/",
+      "icon": "Pcitc-sslvpn.png",
+      "scriptSrc": [
+        "src=\"new_style/placeholderfriend\\.js\""
+      ]
+    },
+    "Vam-product": {
+      "cats": [
+        4
+      ],
+      "description": "vam-product",
+      "website": "https://vamjapan.com/how-to-install/",
+      "icon": "Vam-product.png",
+      "html": [
+        "href=\"https://virtualairlinesmanager\\.net/\">virtual\\ airlines\\ manager",
+        "id=\"mymodallabel\">login\\ vam\\ system",
+        "powered\\ by\\ virtual\\ airlines\\ manager"
+      ],
+      "scriptSrc": [
+        "src=\"js/vam\\.js\""
+      ]
+    },
+    "Udesk": {
+      "cats": [
+        4
+      ],
+      "description": "udesk",
+      "website": "https://www.udesk.jp/",
+      "icon": "Udesk.png",
+      "html": [
+        "udesk\\.cn/im_client/\\?web_plugin_id="
+      ],
+      "scriptSrc": [
+        "\\bassets\\-cli\\.udesk\\.cn/im_client/js/udeskapi\\.js\\b"
+      ]
+    },
+    "Lg-supersign": {
+      "cats": [
+        4
+      ],
+      "description": "lg-supersign",
+      "website": "https://www.lg.com/jp/",
+      "icon": "Lg-supersign.png",
+      "scriptSrc": [
+        "src=\"/ssw/js/user/index\\.js\""
+      ]
+    },
+    "Esri-arcgis": {
+      "cats": [
+        4
+      ],
+      "description": "esri-arcgis",
+      "website": "https://www.esrij.com/",
+      "icon": "Esri-arcgis.png",
+      "scriptSrc": [
+        "\\besri/discovery/admin\\.js\\b"
+      ]
+    },
+    "Zhi-yuan-a8-v5-xie-tong-guan-li-ruan-jian": {
+      "cats": [
+        4
+      ],
+      "description": "致远a8-v5协同管理软件",
+      "website": "https://jingyan.baidu.com/article/20b68a8846e10b386dec623e.html",
+      "icon": "Zhi-yuan-a8-v5-xie-tong-guan-li-ruan-jian.png",
+      "html": [
+        "https://weixin\\.seeyon\\.com/mobilehelp\\.jsp\\?random=",
+        "a8\\+集团版",
+        "\\b/seeyon/common/images/a8/favicon\\.ico\\b"
+      ],
+      "scriptSrc": [
+        "common/js/passwdcheck\\.js\\?v=v5_6"
+      ]
+    },
+    "You-you-you-you-fang-huo-qiang": {
+      "cats": [
+        33
+      ],
+      "description": "佑友-佑友防火墙",
+      "website": "https://www.youtube.com/?gl=JP&hl=ja",
+      "icon": "You-you-you-you-fang-huo-qiang.png",
+      "html": [
+        "class=\"inputsize2\""
+      ],
+      "scriptSrc": [
+        "src=\"\\./js/jquery\\.validate\\.js\""
+      ]
+    },
+    "Manageengine-applications-manager": {
+      "cats": [
+        3
+      ],
+      "description": "manageengine-applications-manager",
+      "website": "https://www.manageengine.jp/",
+      "icon": "Manageengine-applications-manager.png",
+      "scriptSrc": [
+        "\\b/appmanager\\.js\\b"
+      ]
+    },
+    "Emc-documentum-webtop": {
+      "cats": [
+        4
+      ],
+      "description": "emc-documentum-webtop",
+      "website": "https://techs-labo.jp/service/CEND/emc_primer/basic/emc.html",
+      "icon": "Emc-documentum-webtop.png",
+      "html": [
+        "\\b/webtop/webtop/theme/documentum/css/webtop\\.css\\b"
+      ],
+      "scriptSrc": [
+        "\\b/webtop/index\\.js\\b"
+      ]
+    },
+    "Gitweb": {
+      "cats": [
+        4
+      ],
+      "description": "gitweb",
+      "website": "https://www.microsoft.com/en-us/?msockid=1a8bb0652a4b6362361da7d12b6362c9",
+      "icon": "Gitweb.png",
+      "html": [
+        "\\b/gitweb\\.css\\b",
+        "content=\"gitweb"
+      ],
+      "scriptSrc": [
+        "\\b/gitweb\\.js\\b"
+      ]
+    },
+    "Infogo-imc": {
+      "cats": [
+        4
+      ],
+      "description": "infogo-imc",
+      "website": "https://www.hema.nl/?msockid=1a8bb0652a4b6362361da7d12b6362c9",
+      "icon": "Infogo-imc.png",
+      "scriptSrc": [
+        "\\bclient_check/js/global\\.js\\b"
+      ]
+    },
+    "Whir-ezoffice": {
+      "cats": [
+        4
+      ],
+      "description": "whir-ezoffice",
+      "website": "https://www.baby-kingdom.com/forum.php",
+      "icon": "Whir-ezoffice.png",
+      "html": [
+        "\\bezofficeusername\\b",
+        "\\bwhirrootpath\\b"
+      ],
+      "scriptSrc": [
+        "\\b/defaultroot/js/cookie\\.js\\b"
+      ]
+    },
+    "Zhi-yuan-oa-(-wei-zhi-ban-ben-)": {
+      "cats": [
+        4
+      ],
+      "description": "致远oa (未知版本)",
+      "website": "https://maps.google.co.in/mapfiles/home3.html",
+      "icon": "Zhi-yuan-oa-(-wei-zhi-ban-ben-).png",
+      "html": [
+        "\\bseeyon\\.ui\\.core\\-debug\\.js\\b",
+        "weixin\\.seeyon\\.com/mobilehelp\\.jsp\\?random="
+      ],
+      "scriptSrc": [
+        "\\bcommon/js/jquery\\.json\\-debug\\.js\\b",
+        "/seeyon/common/js/passwdcheck\\.js\\?v="
+      ]
+    },
+    "Haitian-oa": {
+      "cats": [
+        4
+      ],
+      "description": "haitian-oa",
+      "website": "https://www.nomuratrading.co.jp/haitian/",
+      "icon": "Haitian-oa.png",
+      "html": [
+        "\\bhtvos\\.js\\b",
+        "mshtml\\ 8\\.00\\.6001\\.19298"
+      ],
+      "scriptSrc": [
+        "\\bimages/myjs\\.js\\b"
+      ]
+    },
+    "Eisoo-anyshare": {
+      "cats": [
+        4
+      ],
+      "description": "eisoo-anyshare",
+      "website": "https://www.justanswer.com/email/ta4fz-outlook-account-blocked-after-failed-logins.html?msockid=1a8bb0652a4b6362361da7d12b6362c9",
+      "icon": "Eisoo-anyshare.png",
+      "html": [
+        "\\bres/libs/webuploader/webuploader\\.css\\b"
+      ],
+      "scriptSrc": [
+        "src=\"/res/libs/base64\\.min\\.js\""
+      ]
+    },
+    "Ngi-diam4": {
+      "cats": [
+        4
+      ],
+      "description": "ngi-diam4",
+      "website": "https://nextgate-hd.co.jp/",
+      "icon": "Ngi-diam4.png",
+      "scriptSrc": [
+        "src=\"/diam4/inc/lang/fr/lang\\.min\\.js\""
+      ]
+    },
+    "Fe-oa": {
+      "cats": [
+        4
+      ],
+      "description": "fe-oa",
+      "website": "https://www.jorudan.co.jp/norikae/",
+      "icon": "Fe-oa.png",
+      "scriptSrc": [
+        "\\bjs39/flyrise\\.stopbackspace\\.js\\b"
+      ]
+    },
+    "Cmstop": {
+      "cats": [
+        1
+      ],
+      "description": "cmstop",
+      "website": "https://web.whatsapp.com/",
+      "icon": "Cmstop.png",
+      "html": [
+        "<a\\ class=\"poweredby\"\\ href=\"http://www\\.cmstop\\.com\"",
+        "\\bcmstop\\-list\\-text\\.css\\b",
+        "\\b/css/cmstop\\-common\\.css\\b"
+      ],
+      "scriptSrc": [
+        "\\b/js/cmstop\\-common\\.js\\b"
+      ]
+    },
+    "Adt-sjw74-vpn-wang-guan": {
+      "cats": [
+        26
+      ],
+      "description": "adt-sjw74-vpn网关",
+      "website": "https://www.adt.co.jp/",
+      "icon": "Adt-sjw74-vpn-wang-guan.png",
+      "html": [
+        "\\bsjw74\\b"
+      ],
+      "scriptSrc": [
+        "src=\"\\./system/usbkey\\.js\""
+      ]
+    },
+    "Kaijiang-oa": {
+      "cats": [
+        4
+      ],
+      "description": "kaijiang-oa",
+      "website": "https://www.youtube.com/",
+      "icon": "Kaijiang-oa.png",
+      "scriptSrc": [
+        "src=\"/kjoa/sheep/login/login\\.js"
+      ]
+    },
+    "Wang-shen-vpn": {
+      "cats": [
+        33
+      ],
+      "description": "网神-vpn",
+      "website": "https://www.alexanderwang.com/jp-ja/",
+      "icon": "Wang-shen-vpn.png",
+      "html": [
+        "src=\"images/login_logo\\.gif\""
+      ],
+      "scriptSrc": [
+        "\\badmin/js/virtual_keyboard\\.js\\b"
+      ]
+    },
+    "Hikvision-an-quan-wang-guan": {
+      "cats": [
+        26
+      ],
+      "description": "hikvision-安全网关",
+      "website": "https://www.reddit.com/r/writing/",
+      "icon": "Hikvision-an-quan-wang-guan.png",
+      "html": [
+        "\\b安全接入网关\\b"
+      ],
+      "scriptSrc": [
+        "src=\"\\./webui/js/jquerylib/jquery\\-1\\.7\\.2\\.min\\.js\""
+      ]
+    },
+    "Oceansoft": {
+      "cats": [
+        4
+      ],
+      "description": "oceansoft",
+      "website": "https://www.copilotai.com/",
+      "icon": "Oceansoft.png",
+      "html": [
+        "aspx/casecenter/acasecenter\\.aspx\\?pagetype=sxcx\\&casetype=sscs\\&casename=",
+        "href=\"/e/action/listinfo/\\?",
+        "技术支持：<a\\ href=\"http://www\\.oceansoft\\.com\\.cn/\">",
+        "\\b江苏欧索\\b",
+        "\\b江苏欧索软件有限公司\\b"
+      ],
+      "scriptSrc": [
+        "\\b/ocensoftcomm\\.js\\b"
+      ]
+    },
+    "Hillstone-zhi-neng-an-quan-yun-ying-xi-tong": {
+      "cats": [
+        26
+      ],
+      "description": "hillstone-智能安全运营系统",
+      "website": "https://weather.com/en/weather/radar/interactive/l/Seattle+Washington?placeId=cef9b6214284b3f4dcac1420f605ace56b0c84a4694ee1531e14dd2684a1855c",
+      "icon": "Hillstone-zhi-neng-an-quan-yun-ying-xi-tong.png",
+      "html": [
+        "\\b/static/css/main\\.4672616b\\.chunk\\.css\\b",
+        "\\b智源\\b"
+      ]
+    },
+    "Citrix-access-gateway": {
+      "cats": [
+        4
+      ],
+      "description": "citrix-access-gateway",
+      "website": "https://www.citrix.com/downloads/",
+      "icon": "Citrix-access-gateway.png",
+      "html": [
+        "\"/vpn/resources/\\{lang\\}\"",
+        "class=\"_ctxstxt_netscalergateway\"",
+        "class=\"citrixreceiverlogoaboutbox\"",
+        "\\bcloud\\.ottoworkfroce\\.eu/vpn/index\\.html\\b",
+        "href=\"/vpn/images/accessgateway\\.ico",
+        "\\breceiver/images/common/icon_vpn\\.ico\\b",
+        "location:\\ /vpn/index\\.html"
+      ],
+      "scriptSrc": [
+        "/vpn/js/gateway_login_view\\.js\\?",
+        "\\bvpn/js/lsgateway_login_view\\.js\\b"
+      ]
+    },
+    "Cnway-ilims": {
+      "cats": [
+        4
+      ],
+      "description": "cnway-ilims",
+      "website": "https://obsproject.com/",
+      "icon": "Cnway-ilims.png",
+      "html": [
+        "src=\"/extjs/adapter/ext/ext\\-base\\-js"
+      ],
+      "scriptSrc": [
+        "\\b/js/allpagefunction\\.js\\b"
+      ]
+    },
+    "Aurion": {
+      "cats": [
+        4
+      ],
+      "description": "aurion",
+      "website": "https://web.whatsapp.com/",
+      "icon": "Aurion.png",
+      "html": [
+        "<!\\-\\-\\ aurion\\ teal\\ will\\ be\\ used\\ as\\ the\\ login\\-time\\ default"
+      ],
+      "scriptSrc": [
+        "\\b/aurion\\.js\\b"
+      ]
+    },
+    "Geotrust-cert": {
+      "cats": [
+        4
+      ],
+      "description": "geotrust-cert",
+      "website": "https://www.geotrust.com/jp",
+      "icon": "Geotrust-cert.png",
+      "scriptSrc": [
+        "\\b//smarticon\\.geotrust\\.com/si\\.js\\b"
+      ]
+    },
+    "Xycms": {
+      "cats": [
+        1
+      ],
+      "description": "xycms",
+      "website": "https://www.kankyo.metro.tokyo.lg.jp/inquiry/contact/industrial_waste_01/",
+      "icon": "Xycms.png",
+      "scriptSrc": [
+        "\\badvfile/ad12\\.js\\b"
+      ]
+    },
+    "Xtoa-oa": {
+      "cats": [
+        4
+      ],
+      "description": "xtoa-oa",
+      "website": "https://support.google.com/maps/answer/144339?hl=ja&co=GENIE.Platform=Desktop",
+      "icon": "Xtoa-oa.png",
+      "html": [
+        "\\b/app_qjuserinfo/qjuserinfoadd\\.jsp\\b",
+        "\\b/images/default/first/xtoa_logo\\.png\\b"
+      ],
+      "scriptSrc": [
+        "src=\"systemfiles/js/iawebclientactivexcheck\\.js\""
+      ]
+    },
+    "Bees Cms": {
+      "cats": [
+        1
+      ],
+      "description": "bees_cms",
+      "website": "https://support.google.com/chrome/answer/95346?hl=ko&co=GENIE.Platform=Desktop",
+      "icon": "Bees Cms.png",
+      "html": [
+        "\\bbeescms\\b",
+        "\\b/default/images/search_btn\\.gif\\b",
+        "\\bmx_form/mx_form\\.php\\b",
+        "powerd\\ by\\ beescms"
+      ],
+      "scriptSrc": [
+        "\\btemplate/default/images/slides\\.min\\.jquery\\.js\\b",
+        "\\b/default/images/xslider\\.js\\b"
+      ]
+    },
+    "Yunhezi": {
+      "cats": [
+        4
+      ],
+      "description": "yunhezi",
+      "website": "https://www.space.com/quizzes",
+      "icon": "Yunhezi.png",
+      "html": [
+        "class=\"client\\-list\\ dm\\-clear\">",
+        "\\bui/skins/black/style\\.css\\b"
+      ],
+      "scriptSrc": [
+        "\\bui/js/seaconfig\\.js\\b"
+      ]
+    },
+    "Bestsch-ecs": {
+      "cats": [
+        4
+      ],
+      "description": "bestsch-ecs",
+      "website": "https://www.speedtest.net/",
+      "icon": "Bestsch-ecs.png",
+      "html": [
+        "\\b/userfiles/admin/customskin\\b"
+      ],
+      "scriptSrc": [
+        "src=\"/include/ecsserverapi\\.js"
+      ]
+    },
+    "Thinkphp-yfcmf": {
+      "cats": [
+        3
+      ],
+      "description": "thinkphp-yfcmf",
+      "website": "https://visualstudio.microsoft.com/",
+      "icon": "Thinkphp-yfcmf.png",
+      "html": [
+        "\\byfcmf\\b"
+      ],
+      "scriptSrc": [
+        "\\b/public/others/maxlength\\.js\\b",
+        "\\b/yfcmf/yfcmf\\.js\\b"
+      ]
+    },
+    "Phxeventmanager": {
+      "cats": [
+        4
+      ],
+      "description": "phxeventmanager",
+      "website": "https://support.microsoft.com/de-de/accounts-billing/manage/how-to-sign-in-to-hotmail",
+      "icon": "Phxeventmanager.png",
+      "html": [
+        "<td><div\\ class=\"minicalmonth",
+        "powered\\ by\\ phxeventmanager"
+      ],
+      "scriptSrc": [
+        "src=\"pem\\-includes/xajax/xajax_js/xajax_core\\.js"
+      ]
+    },
+    "Yi-you-zhi-neng-fan-la-ji-you-jian-xi-tong": {
+      "cats": [
+        4
+      ],
+      "description": "易邮-智能反垃圾邮件系统",
+      "website": "https://www.youtube.com/channel/UCIrTFKMVjT82cz85Nekg-OQ",
+      "icon": "Yi-you-zhi-neng-fan-la-ji-you-jian-xi-tong.png",
+      "html": [
+        "ymail's\\ 智能反垃圾邮件系统"
+      ],
+      "scriptSrc": [
+        "\\b/ymail/default/js/menu\\.js\\b"
+      ]
+    },
+    "Msvod-mediamanager": {
+      "cats": [
+        4
+      ],
+      "description": "msvod-mediamanager",
+      "website": "https://soso-forum.tistory.com/6",
+      "icon": "Msvod-mediamanager.png",
+      "html": [
+        "\\$\\('\\.sign\\-btn'\\)\\.addclass\\(\"completion\"\\);",
+        "content=\"魅思cms"
+      ],
+      "scriptSrc": [
+        "\\bstatic/js/meisicms\\.js\\b"
+      ]
+    },
+    "Jin-he-xie-tong-guan-li-ping-tai": {
+      "cats": [
+        4
+      ],
+      "description": "金和协同管理平台",
+      "website": "https://www.youtube.com/",
+      "icon": "Jin-he-xie-tong-guan-li-ping-tai.png",
+      "html": [
+        "\\bjhsoft\\.web\\.login\\b",
+        "\\bpassword\\.aspx\\b",
+        "\\bc6/jhsoft\\.web\\.login\\b",
+        "\\bclosewindownoask\\b",
+        "jinher\\ network"
+      ],
+      "scriptSrc": [
+        "\\bjs/passwordcommon\\.js\\b",
+        "\\bjs/passwordnew\\.js\\b"
+      ]
+    },
+    "Leadsec-vpn": {
+      "cats": [
+        33
+      ],
+      "description": "leadsec-vpn",
+      "website": "https://en.xnxx.place/search/xnxx",
+      "icon": "Leadsec-vpn.png",
+      "html": [
+        "src=\"/vpn/user/common/"
+      ],
+      "scriptSrc": [
+        "\\b/js/leadsec\\.js\\b"
+      ]
+    },
+    "Adviserlogiccli": {
+      "cats": [
+        4
+      ],
+      "description": "adviserlogiccli",
+      "website": "https://www.mapsofindia.com/hyderabad/localities/ashok-nagar.html",
+      "icon": "Adviserlogiccli.png",
+      "scriptSrc": [
+        "navigator\\.serviceworker\\.register\\('/adviserlogiccache\\.js'\\)"
+      ]
+    },
+    "Spark-history-server": {
+      "cats": [
+        4
+      ],
+      "description": "spark-history-server",
+      "website": "https://learn.eltngl.com/",
+      "icon": "Spark-history-server.png",
+      "scriptSrc": [
+        "src=\"/static/historypage\\-common\\.js\">"
+      ]
+    },
+    "Shi-hua-ying-ke-ssl-vpn-yuan-cheng-jie-ru-xi-tong": {
+      "cats": [
+        33
+      ],
+      "description": "石化盈科-ssl-vpn-远程接入系统",
+      "website": "https://www.shi.co.jp/",
+      "icon": "Shi-hua-ying-ke-ssl-vpn-yuan-cheng-jie-ru-xi-tong.png",
+      "scriptSrc": [
+        "src=\"new_style/placeholderfriend\\.js"
+      ]
+    },
+    "Wosign-ssl-cert": {
+      "cats": [
+        4
+      ],
+      "description": "wosign-ssl-cert",
+      "website": "https://www.timeanddate.com/stopwatch/",
+      "icon": "Wosign-ssl-cert.png",
+      "html": [
+        "https://seal\\.wosign\\.com/signature"
+      ],
+      "scriptSrc": [
+        "https://seal\\.wosign\\.com/tws\\.js"
+      ]
+    },
+    "Adt-iam-wang-guan-kong-zhi-tai": {
+      "cats": [
+        26
+      ],
+      "description": "adt-iam网关控制台",
+      "website": "https://www.adt.co.jp/",
+      "icon": "Adt-iam-wang-guan-kong-zhi-tai.png",
+      "html": [
+        "\\biam\\b",
+        "src=\"/page/assets/javascripts/adt\\.js\""
+      ]
+    },
+    "Kingosoft": {
+      "cats": [
+        4
+      ],
+      "description": "kingosoft",
+      "website": "https://open.spotify.com/album/0hePnTldrfYjUvUhKrR79Y",
+      "icon": "Kingosoft.png",
+      "html": [
+        "\\bkingosoft\\b",
+        "\\bsetkingoencypt\\.jsp\\b",
+        "\\b青果\\b"
+      ],
+      "scriptSrc": [
+        "\\b/jkingo\\.js\\b"
+      ]
+    },
+    "Laobanmail-visualhost": {
+      "cats": [
+        4
+      ],
+      "description": "laobanmail-visualhost",
+      "website": "https://www.sanfernando.gov/Parks-Recreation/Fitness-Wellness/Fitness-Classes",
+      "icon": "Laobanmail-visualhost.png",
+      "scriptSrc": [
+        "\\b/public/js/util/xg_oyang\\.js\\b"
+      ]
+    },
+    "Hjsoft-hcm": {
+      "cats": [
+        4
+      ],
+      "description": "hjsoft-hcm",
+      "website": "https://www.dafont.com/new.php",
+      "icon": "Hjsoft-hcm.png",
+      "html": [
+        "src=\"/images/hcm/copyright\\.gif\"",
+        "src=\"/images/hcm/themes/default/login/login_banner2\\.png\\?v=12334\""
+      ],
+      "scriptSrc": [
+        "src=\"/general/sys/hjaxmanage\\.js\""
+      ]
+    },
+    "Bowen-providence-car-loading-reservation-system": {
+      "cats": [
+        4
+      ],
+      "description": "bowen-providence-car-loading-reservation-system",
+      "website": "https://urata-hifuka.com/skin-tumor/bowen.html",
+      "icon": "Bowen-providence-car-loading-reservation-system.png",
+      "scriptSrc": [
+        "\\b/public/base/js/plugins/crypto/rsa\\.js\\b"
+      ]
+    },
+    "Pansoft-financial-system": {
+      "cats": [
+        4
+      ],
+      "description": "pansoft-financial-system",
+      "website": "",
+      "icon": "Pansoft-financial-system.png",
+      "html": [
+        "src=\"/login/img/loading\\.gif\""
+      ],
+      "scriptSrc": [
+        "\\bpansoftplugins/multithreading/pancalc\\.js\\b"
+      ]
+    },
+    "Hfish": {
+      "cats": [
+        4
+      ],
+      "description": "hfish",
+      "website": "https://www.microsoft.com/en-us/download/internet-explorer?msockid=1a8bb0652a4b6362361da7d12b6362c9",
+      "icon": "Hfish.png",
+      "html": [
+        "<title>hfish",
+        "href=\"https://github\\.com/hacklcx/hfish\"",
+        "src=\"/static/images/hfish\\.png\""
+      ]
+    },
+    "Lezhixing": {
+      "cats": [
+        4
+      ],
+      "description": "lezhixing",
+      "website": "https://support.google.com/chrome/answer/95346?hl=ko&co=GENIE.Platform=Desktop",
+      "icon": "Lezhixing.png",
+      "html": [
+        "\\b/static/thirdparty/jquery/\\b",
+        "var\\ contextpath\\ =\\ \"/datacenter",
+        "action=\"/datacenter/authentication/login\\.do\"\\ method=\"post",
+        "location\\.href=contextpath\\+\"/login/password/password\\.jsp"
+      ]
+    },
+    "Xheditor": {
+      "cats": [
+        4
+      ],
+      "description": "xheditor",
+      "website": "https://www.imdb.com/list/ls049852613/",
+      "icon": "Xheditor.png",
+      "html": [
+        "\\.xheditor\\(",
+        "class=\"xheditor"
+      ],
+      "scriptSrc": [
+        "\\bxheditor_lang/zh\\-cn\\.js\\b"
+      ]
+    },
+    "Ming-fei-mcms": {
+      "cats": [
+        1
+      ],
+      "description": "铭飞mcms",
+      "website": "https://www.ming.watch/",
+      "icon": "Ming-fei-mcms.png",
+      "html": [
+        "/mcms/search\\.do\"\\ method=",
+        "\\b铭飞mcms\\b",
+        "\\b/mdiy/formdata/save\\.do\\b"
+      ],
+      "scriptSrc": [
+        "\\bstatic/plugins/ms/1\\.0\\.0/ms\\.js\\b"
+      ]
+    },
+    "Diyou-p2p": {
+      "cats": [
+        4
+      ],
+      "description": "diyou-p2p",
+      "website": "https://uk.indeed.com/l-london-jobs.html?vjk=c7fb0ed2d12e88bf",
+      "icon": "Diyou-p2p.png",
+      "html": [
+        "src=\"/dyweb/dythemes"
+      ],
+      "scriptSrc": [
+        "\\b/js/diyou\\.js\\b"
+      ]
+    },
+    "Taocms": {
+      "cats": [
+        1
+      ],
+      "description": "taocms",
+      "website": "https://www.othello.org/play/",
+      "icon": "Taocms.png",
+      "html": [
+        "\\btemplate/taocms\\b"
+      ],
+      "scriptSrc": [
+        "src=\"/taocms/code/calendar\\.js\""
+      ]
+    },
+    "Aspentech-aspen-infoplus21": {
+      "cats": [
+        4
+      ],
+      "description": "aspentech-aspen-infoplus21",
+      "website": "https://www.aspentech.com/en",
+      "icon": "Aspentech-aspen-infoplus21.png",
+      "scriptSrc": [
+        "src=\"/aspencui/css/appstyles\\.js"
+      ]
+    },
+    "Itenable": {
+      "cats": [
+        4
+      ],
+      "description": "itenable",
+      "website": "https://cellphones.com.vn/sforum/top-phan-mem-chat-ai-tot-nhat",
+      "icon": "Itenable.png",
+      "html": [
+        "\\b/enableq\\.css\\b",
+        "\\b/images/enableq\\.ico\\b"
+      ],
+      "scriptSrc": [
+        "\\bjs/checkquestion\\.js\\.php\\b"
+      ]
+    },
+    "5k-crm": {
+      "cats": [
+        4
+      ],
+      "description": "5k-crm",
+      "website": "https://www.5kplayer.com/index-jp.htm",
+      "icon": "5k-crm.png",
+      "scriptSrc": [
+        "\\b/public/js/5kcrm\\.js\\b"
+      ]
+    },
+    "Zhi-yuan-a6-m-xie-tong-guan-li-ruan-jian": {
+      "cats": [
+        4
+      ],
+      "description": "致远a6-m协同管理软件",
+      "website": "https://support.google.com/webmasters/answer/7451001?hl=en",
+      "icon": "Zhi-yuan-a6-m-xie-tong-guan-li-ruan-jian.png",
+      "html": [
+        "\\b辅助程序安装\\b",
+        "\\bseeyonoa/ui/images/login/a6_s_name\\.png\\b",
+        "\\b辅助安装程序\\b",
+        "\\b致远a6\\-m协同管理软件\\b"
+      ],
+      "scriptSrc": [
+        "\\b/yyoa/seeyonoa/common/js/jquery/jquery\\.js\\b"
+      ]
+    },
+    "Synology-photo-station": {
+      "cats": [
+        4
+      ],
+      "description": "synology-photo-station",
+      "website": "https://pschool.in/",
+      "icon": "Synology-photo-station.png",
+      "html": [
+        "content=\"album",
+        "content=\"photo\\ station",
+        "content=\"photo\\ station\\ 6\"",
+        "content=\"service_not_available\""
+      ],
+      "scriptSrc": [
+        "\\bphoto_new/syno_photo_main\\.js\\b"
+      ]
+    },
+    "Simsweb": {
+      "cats": [
+        4
+      ],
+      "description": "simsweb",
+      "website": "https://forums.rpcs3.net/forum-33-page-2.html?sortby=replies&order=asc",
+      "icon": "Simsweb.png",
+      "html": [
+        "<form\\ onsubmit=\"sendinfo\\(\\);\\ return\\ false;\"\\ name=\"logon",
+        "index\\.html\"><font\\ color=\"black\"\\ face=\"arial\">loading\\ simsweb,\\ please\\ wait\\.\\.\\.\\.\\.</font></a></h2>"
+      ],
+      "scriptSrc": [
+        "src=\"/simsweb/monitor\\.js"
+      ]
+    },
+    "Jymusic": {
+      "cats": [
+        4
+      ],
+      "description": "jymusic",
+      "website": "https://support.microsoft.com/de-de/accounts-billing/manage/how-to-sign-in-to-hotmail",
+      "icon": "Jymusic.png",
+      "html": [
+        "content=\"jymusic音乐管理系统",
+        "\\bpublic/static/libs/jymusic/css\\b"
+      ]
+    },
+    "Thinkmail": {
+      "cats": [
+        4
+      ],
+      "description": "thinkmail",
+      "website": "https://forum.lowyat.net/Kopitiam",
+      "icon": "Thinkmail.png",
+      "html": [
+        "/webmail\"\\+\"/common/validatecode\\.do",
+        "app_download\":\"\",\"thinkmail官网",
+        "href='http://www\\.thinkcloud\\.cn'\\ target='_blank'>thinkcloud</a>\\.all\\ right\\ reserved</div>"
+      ],
+      "scriptSrc": [
+        "\\b/resource/se/common/jquery\\.js\\b"
+      ]
+    },
+    "Apache-archiva": {
+      "cats": [
+        22
+      ],
+      "description": "apache-archiva",
+      "website": "https://httpd.apache.org/",
+      "icon": "Apache-archiva.png",
+      "html": [
+        "\\b/archiva\\.css\\b"
+      ],
+      "scriptSrc": [
+        "\\b/archiva\\.js\\b"
+      ]
+    },
+    "Power-powerpms": {
+      "cats": [
+        4
+      ],
+      "description": "power-powerpms",
+      "website": "https://app.powerbi.com/home",
+      "icon": "Power-powerpms.png",
+      "html": [
+        "\\b/app_themes/default/assets/css/style\\.min\\.css\\b",
+        "\\b/scripts/boot\\.js\\b",
+        "apphub\\.server\\.registertohub\\(qrcodeid\\)"
+      ]
+    },
+    "Ektron-cms": {
+      "cats": [
+        1
+      ],
+      "description": "ektron-cms",
+      "website": "https://translate.google.co.in/",
+      "icon": "Ektron-cms.png",
+      "scriptSrc": [
+        "\\b/java/ektron\\.js\\b"
+      ]
+    },
+    "Tongda-oa": {
+      "cats": [
+        4
+      ],
+      "description": "tongda-oa",
+      "website": "https://support.microsoft.com/en-us/windows/apps/use-snipping-tool-to-capture-screenshots",
+      "icon": "Tongda-oa.png",
+      "html": [
+        "\\btongda2000\\b",
+        "\\b/images/tongda\\.ico\\b",
+        "\\b/static/templates/2013_01/index\\.css/\\b",
+        "<a\\ href='http://www\\.tongda2000\\.com/'\\ target='_black'>通达官网</a>",
+        "<link\\ rel=\"shortcut\\ icon\"\\ href=\"/images/tongda\\.ico\"\\ />",
+        "office\\ anywhere",
+        "href=\"/static/images/tongda\\.ico\"",
+        "javascript:document\\.form1\\.uname\\.focus\\(\\)",
+        "oa提示：不能登录oa",
+        "紧急通知：今日10点停电"
+      ]
+    },
+    "Sangfor-sip": {
+      "cats": [
+        26
+      ],
+      "description": "sangfor-sip",
+      "website": "https://www.sangfor.com.cn/",
+      "icon": "Sangfor-sip.png",
+      "html": [
+        "url:\\ '\\.\\./auth_manage/auth_manage/on_login'",
+        "window\\.sessionstorage\\.removeitem\\('serialcheckobj'\\)"
+      ],
+      "scriptSrc": [
+        "src=\"/apps/secvisual/static/js/runtime\\.js\\?"
+      ]
+    },
+    "Qi-ming-xing-chen-tian-qingweb-ying-yong-an-quan-wang-guan": {
+      "cats": [
+        26
+      ],
+      "description": "启明星辰-天清web应用安全网关",
+      "website": "https://qi.hospital.or.jp/",
+      "icon": "Qi-ming-xing-chen-tian-qingweb-ying-yong-an-quan-wang-guan.png",
+      "html": [
+        "\\b天清web应用安全网关\\b"
+      ],
+      "scriptSrc": [
+        "\\bv2/global/vendor/modernizr/modernizr\\.js\\b"
+      ]
+    },
+    "Ao-wei-ya-shi-ping-yun-ping-tai": {
+      "cats": [
+        4
+      ],
+      "description": "奥威亚视屏云平台",
+      "website": "https://www.zhihu.com/question/281102742",
+      "icon": "Ao-wei-ya-shi-ping-yun-ping-tai.png",
+      "html": [
+        "\\blickandshowsignupmodal\\b",
+        "\\bclickandshowloginmodal\\b",
+        "\\b/css/newtontheme/assets/app\\.css\\b"
+      ]
+    },
+    "Wq-cms": {
+      "cats": [
+        1
+      ],
+      "description": "wq-cms",
+      "website": "https://eng-entrance.com/linux-vi-save",
+      "icon": "Wq-cms.png",
+      "html": [
+        "powered\\ by\\ <a\\ href='http://www\\.wqcms\\.com",
+        "\\bstyle/wangqi/style\\.css\\b"
+      ],
+      "scriptSrc": [
+        "\\binc/wqcms\\.js\\b"
+      ]
+    },
+    "Redwoodhq": {
+      "cats": [
+        4
+      ],
+      "description": "redwoodhq",
+      "website": "https://openai.com/zh-Hans-CN/gpt-5/",
+      "icon": "Redwoodhq.png",
+      "scriptSrc": [
+        "\\bstylesheets/redwoodtheme/resources/js/azzurra\\.js\\b"
+      ]
+    },
+    "Astaro-command-center": {
+      "cats": [
+        4
+      ],
+      "description": "astaro-command-center",
+      "website": "https://english.stackexchange.com/questions/40408/whats-the-origin-of-yo",
+      "icon": "Astaro-command-center.png",
+      "html": [
+        "\\bcommandcenter\\b"
+      ],
+      "scriptSrc": [
+        "/js/_variables_from_backend\\.js\\?"
+      ]
+    },
+    "Document-security-management-system": {
+      "cats": [
+        33
+      ],
+      "description": "document-security-management-system",
+      "website": "https://docs.google.com/",
+      "icon": "Document-security-management-system.png",
+      "html": [
+        "action=\"/drm/login\\.do\"",
+        "href=\"/drm/template/css/login\\.css\""
+      ],
+      "scriptSrc": [
+        "src=\"/drm/encjs/barrett\\.js\""
+      ]
+    },
+    "Jin-shantimeon-yun-sha-du": {
+      "cats": [
+        4
+      ],
+      "description": "金山timeon云杀毒",
+      "website": "https://www.policybazaar.com/life-insurance/term-insurance/",
+      "icon": "Jin-shantimeon-yun-sha-du.png",
+      "html": [
+        "\\btimeon\\b"
+      ],
+      "scriptSrc": [
+        "\\biepngfix/iepngfix_tilebg\\.js\\b"
+      ]
+    },
+    "Ymail-optical-content-reading": {
+      "cats": [
+        4
+      ],
+      "description": "ymail-optical-content-reading",
+      "website": "https://mail.yahoo.co.jp/promo/?vm=r",
+      "icon": "Ymail-optical-content-reading.png",
+      "scriptSrc": [
+        "\\b/ymail/default/js/menu\\.js\\b"
+      ]
+    },
+    "Pivotx": {
+      "cats": [
+        4
+      ],
+      "description": "pivotx",
+      "website": "https://www.forum24.cz/rubrika/svobodne-forum/",
+      "icon": "Pivotx.png",
+      "html": [
+        "content=\"pivotx",
+        "templates_internal/assets/pivotx\\.png\"\\ alt=\"pivotx"
+      ],
+      "scriptSrc": [
+        "src=\"includes/js/pivotx\\.js"
+      ]
+    },
+    "Rui-jie-rg-ew1200g": {
+      "cats": [
+        26
+      ],
+      "description": "锐捷-rg-ew1200g",
+      "website": "https://rui-official.bitfan.id/",
+      "icon": "Rui-jie-rg-ew1200g.png",
+      "html": [
+        "\\b/js/app\\b",
+        "\\b/static/img/title\\.ico\\b",
+        "\\b锐捷\\b"
+      ]
+    },
+    "Jienohan-journal": {
+      "cats": [
+        4
+      ],
+      "description": "jienohan-journal",
+      "website": "https://minecraft.fandom.com/wiki/Biome",
+      "icon": "Jienohan-journal.png",
+      "scriptSrc": [
+        "\\btougao/misc\\.js\\b"
+      ]
+    },
+    "Srs-live-server": {
+      "cats": [
+        4
+      ],
+      "description": "srs-live-server",
+      "website": "https://www.srscorp.co.jp/",
+      "icon": "Srs-live-server.png",
+      "scriptSrc": [
+        "\\bplayers/js/winlin\\.utility\\.js\\b"
+      ]
+    },
+    "Mechat-online-service": {
+      "cats": [
+        4
+      ],
+      "description": "mechat-online-service",
+      "website": "https://blog.darkthread.net/",
+      "icon": "Mechat-online-service.png",
+      "scriptSrc": [
+        "\\b/meiqia\\.js\\b"
+      ]
+    },
+    "Tian-qing-han-mavpn": {
+      "cats": [
+        33
+      ],
+      "description": "天清汉马vpn",
+      "website": "https://www.kangxizidian.com.cn/pinyin/tian.html",
+      "icon": "Tian-qing-han-mavpn.png",
+      "html": [
+        "\\b/vpn/user/common/custom/auth_home\\.css\\b"
+      ],
+      "scriptSrc": [
+        "\\b/vpn/common/js/leadsec\\.js\\b"
+      ]
+    },
+    "Sunboxsoft-marketing": {
+      "cats": [
+        4
+      ],
+      "description": "sunboxsoft-marketing",
+      "website": "https://web.whatsapp.com/",
+      "icon": "Sunboxsoft-marketing.png",
+      "scriptSrc": [
+        "\\b/sunbox/assets/js/ace\\.min\\.js\\b"
+      ]
+    },
+    "Bridge5asia-amss": {
+      "cats": [
+        4
+      ],
+      "description": "bridge5asia-amss",
+      "website": "https://davincist.com/invention/",
+      "icon": "Bridge5asia-amss.png",
+      "html": [
+        "education\\ area\\ management\\ support\\ system\\ :\\ amss\\+\\+"
+      ],
+      "scriptSrc": [
+        "\\b/statics/js/mdo\\-angular\\-cryptography\\.js\\b"
+      ]
+    },
+    "Hikvision-ivms-8700": {
+      "cats": [
+        4
+      ],
+      "description": "hikvision-ivms-8700",
+      "website": "https://mobile.12306.cn/otsmobile/h5/otsbussiness/info/transportationRules.html",
+      "icon": "Hikvision-ivms-8700.png",
+      "scriptSrc": [
+        "src=\"/portal/common/js/commonvar\\.js"
+      ]
+    },
+    "Sxzrouter-caching": {
+      "cats": [
+        26
+      ],
+      "description": "sxzrouter-caching",
+      "website": "https://beneficiary.nha.gov.in/",
+      "icon": "Sxzrouter-caching.png",
+      "html": [
+        "\\ href=\"http://www\\.dwcache\\.com\""
+      ],
+      "scriptSrc": [
+        "src=\"/public/sec/assets/js/libs/jquery\\.placeholder\\.min\\.js\">"
+      ]
+    },
+    "Filenice": {
+      "cats": [
+        4
+      ],
+      "description": "filenice",
+      "website": "https://www.calculator.net/percent-calculator.html",
+      "icon": "Filenice.png",
+      "html": [
+        "content=\"the\\ fantabulous\\ mechanical\\ eviltwin\\ code\\ machine"
+      ],
+      "scriptSrc": [
+        "\\bfilenice/filenice\\.js\\b"
+      ]
+    },
+    "Adt-tpn-2g-wang-guan": {
+      "cats": [
+        26
+      ],
+      "description": "adt-tpn-2g网关",
+      "website": "https://www.cqu.edu.cn/",
+      "icon": "Adt-tpn-2g-wang-guan.png",
+      "html": [
+        "\\btpn\\-2g\\b"
+      ],
+      "scriptSrc": [
+        "src=\"\\./system/usbkey\\.js\""
+      ]
+    },
+    "Chelen-system": {
+      "cats": [
+        4
+      ],
+      "description": "chelen-system",
+      "website": "https://maps.google.co.jp/intl/ja/help/maps/streetview/privacy.html",
+      "icon": "Chelen-system.png",
+      "scriptSrc": [
+        "\\biaus/media/js/login/login\\.js\\b"
+      ]
+    },
+    "Ewebs": {
+      "cats": [
+        4
+      ],
+      "description": "ewebs",
+      "website": "https://www.nvidia.cn/geforce/",
+      "icon": "Ewebs.png",
+      "html": [
+        "\\bclientdownload\\.xgi\\b",
+        "\\bnewsoft\\b",
+        "<a\\ href='\\.\\./client/ewebsclientsetup\\.exe'></a>\\ </td>"
+      ],
+      "scriptSrc": [
+        "\\b/js/xajax05/xajax_js/xajax_core\\.js\\b"
+      ]
+    },
+    "Apache-hadoop-yarn": {
+      "cats": [
+        22
+      ],
+      "description": "apache-hadoop-yarn",
+      "website": "https://httpd.apache.org/",
+      "icon": "Apache-hadoop-yarn.png",
+      "html": [
+        "\\b/static/yarn\\.css\\b",
+        "\\byarn\\.dt\\.plugins\\.js\\b"
+      ]
+    },
+    "Kloxo-single-server": {
+      "cats": [
+        4
+      ],
+      "description": "kloxo-single-server",
+      "website": "https://support.google.com/translate/?hl=en",
+      "icon": "Kloxo-single-server.png",
+      "html": [
+        "src=\"/img/hypervm\\-logo\\.gif"
+      ],
+      "scriptSrc": [
+        "\\b/htmllib/js/preop\\.js\\b"
+      ]
+    },
+    "Ibm-lotus-sametime": {
+      "cats": [
+        4
+      ],
+      "description": "ibm-lotus-sametime",
+      "website": "https://www.ibm.com/jp-ja",
+      "icon": "Ibm-lotus-sametime.png",
+      "html": [
+        "class=\"sametimemeetingsbuttontransparent\"",
+        "href=\"sametime/meetingcenter\\-moz\\.css\"",
+        "\\bsametime/themes/images/blank\\.gif\\b"
+      ],
+      "scriptSrc": [
+        "src=\"sametime/avtest\\.js\""
+      ]
+    },
+    "Zhi-yuan-ufida-nc-xie-tong-oa-v5.71": {
+      "cats": [
+        4
+      ],
+      "description": "致远ufida nc协同-oa v5.71",
+      "website": "https://mail.google.com/mail",
+      "icon": "Zhi-yuan-ufida-nc-xie-tong-oa-v5.71.png",
+      "html": [
+        "\\bv3_20sp1_2011\\-12\\-31\\b"
+      ],
+      "scriptSrc": [
+        "\\b/seeyon/common/js/v3x\\.js\\b"
+      ]
+    },
+    "Cloudwise-dodp": {
+      "cats": [
+        4
+      ],
+      "description": "cloudwise-dodp",
+      "website": "https://www.douyin.com/",
+      "icon": "Cloudwise-dodp.png",
+      "scriptSrc": [
+        "\\b/public/vendor/monaco/vs/loader\\.js\\b"
+      ]
+    },
+    "Yelala": {
+      "cats": [
+        4
+      ],
+      "description": "yelala",
+      "website": "https://forums.rpcs3.net/forum-33-page-2.html?sortby=replies&order=asc",
+      "icon": "Yelala.png",
+      "html": [
+        "<form\\ action=\"/index\\.php/home/login/login\\.html\"\\ method=\"post\"\\ id=\"login\"\\ class=\"form\"\\ data\\-bind=\"submit:\\ submitform\">"
+      ],
+      "scriptSrc": [
+        "\\b/public/js/knockout\\-3\\.4\\.1\\.debug\\.js\\b"
+      ]
+    },
+    "263-enterprise-mailbox": {
+      "cats": [
+        4
+      ],
+      "description": "263-enterprise-mailbox",
+      "website": "https://mail.263.net/",
+      "icon": "263-enterprise-mailbox.png",
+      "html": [
+        "\\bnet263\\.wm\\.custom_login\\.homepage_init\\b"
+      ],
+      "scriptSrc": [
+        "src=\"/custom_login/js/net263_wm_util\\.js"
+      ]
+    },
+    "Fan-wei-oa-e-cology8": {
+      "cats": [
+        4
+      ],
+      "description": "泛微-oa e-cology8",
+      "website": "https://fancorp.jp/",
+      "icon": "Fan-wei-oa-e-cology8.png",
+      "scriptSrc": [
+        "\\b/js/ecology8/lang/weaver_lang_7_wev8\\.js\\b",
+        "\\b/js/jquery/plugins/client/jquery\\.client_wev8\\.js\\b"
+      ]
+    },
+    "Reremouse-exam-system": {
+      "cats": [
+        4
+      ],
+      "description": "reremouse-exam-system",
+      "website": "https://support.microsoft.com/de-de/accounts-billing/manage/how-to-sign-in-to-hotmail",
+      "icon": "Reremouse-exam-system.png",
+      "html": [
+        "博库医学在线考试系统，技术支持：杭州博库科技有限公司",
+        "\\b蝙蝠在线考试系统\\b"
+      ],
+      "scriptSrc": [
+        "src=\"/resources/js/upscroll\\.js\""
+      ]
+    },
+    "Posun-sales": {
+      "cats": [
+        4
+      ],
+      "description": "posun-sales",
+      "website": "https://www.how2shout.com/how-to/how-to-get-help-in-windows-11.html",
+      "icon": "Posun-sales.png",
+      "html": [
+        "<p>快易销公众号</p>"
+      ],
+      "scriptSrc": [
+        "src=\"/view/static/js/eidpcommon\\.min\\.js\""
+      ]
+    },
+    "Emeeting-online-dating-software": {
+      "cats": [
+        4
+      ],
+      "description": "emeeting-online-dating-software",
+      "website": "https://jaf.or.jp/common/safety-drive/car-learning/self-check/daily-15check",
+      "icon": "Emeeting-online-dating-software.png",
+      "html": [
+        "emeeting\\ dating\\ software"
+      ],
+      "scriptSrc": [
+        "\\b/_emeetingglobals\\.js\\b"
+      ]
+    },
+    "Cscms": {
+      "cats": [
+        1
+      ],
+      "description": "cscms",
+      "website": "https://www.google.co.in/inputtools/try/",
+      "icon": "Cscms.png",
+      "html": [
+        "tag_adfo\\ dis_wap"
+      ],
+      "scriptSrc": [
+        "\\b/js/cscms\\.js\\b"
+      ]
+    },
+    "Hphu-system": {
+      "cats": [
+        4
+      ],
+      "description": "hphu-system",
+      "website": "https://www.reddit.com/r/SatisfactoryGame/comments/poc898/alternate_recipes_indepth_analysis_an_objective/",
+      "icon": "Hphu-system.png",
+      "html": [
+        "id='psssdiv'"
+      ],
+      "scriptSrc": [
+        "src='kss_inc/js/jquery\\.1\\.3\\.2\\.pack\\.js'"
+      ]
+    },
+    "Esotalk": {
+      "cats": [
+        4
+      ],
+      "description": "esotalk",
+      "website": "http://www.jlaforums.com/viewrecent.php?start=2508100",
+      "icon": "Esotalk.png",
+      "html": [
+        "generated\\ by\\ esotalk",
+        "powered\\ by\\ esotalk"
+      ],
+      "scriptSrc": [
+        "\\b/js/esotalk\\.js\\b"
+      ]
+    },
+    "Owtware-iconn-end-user-calculation": {
+      "cats": [
+        4
+      ],
+      "description": "owtware-iconn-end-user-calculation",
+      "website": "https://m.ixigua.com/",
+      "icon": "Owtware-iconn-end-user-calculation.png",
+      "scriptSrc": [
+        "src=\"/res/api/owvmapi\\.js\\?"
+      ]
+    },
+    "Indusguard-waf": {
+      "cats": [
+        33
+      ],
+      "description": "indusguard-waf",
+      "website": "https://www.islandlifecaribbean.com/bahamas-beaches/",
+      "icon": "Indusguard-waf.png",
+      "scriptSrc": [
+        "\\bwafportal/wafportal\\.nocache\\.js\\b"
+      ]
+    },
+    "Xin-xi-an-quan-guan-li-xi-tong": {
+      "cats": [
+        4
+      ],
+      "description": "信息安全管理系统",
+      "website": "https://www.youtube.com/@xin.official",
+      "icon": "Xin-xi-an-quan-guan-li-xi-tong.png",
+      "html": [
+        "id=\"lblmsg_container\""
+      ],
+      "scriptSrc": [
+        "src=\"js/piwik\\.js\""
+      ]
+    },
+    "Loyaa-information-automatic-editing-system": {
+      "cats": [
+        4
+      ],
+      "description": "loyaa-information-automatic-editing-system",
+      "website": "https://support.google.com/youtube/answer/7682560?hl=en",
+      "icon": "Loyaa-information-automatic-editing-system.png",
+      "scriptSrc": [
+        "\\b/loyaa/common\\.lib\\.js\\b"
+      ]
+    },
+    "Rusong-product": {
+      "cats": [
+        4
+      ],
+      "description": "rusong-product",
+      "website": "https://www.iras.gov.sg/taxes/corporate-income-tax/specific-topics/transfer-pricing/",
+      "icon": "Rusong-product.png",
+      "scriptSrc": [
+        "\\bplugins/wbb/barrett\\.js\\b"
+      ]
+    },
+    "Manageengine-deviceexpert": {
+      "cats": [
+        3
+      ],
+      "description": "manageengine-deviceexpert",
+      "website": "https://www.manageengine.jp/",
+      "icon": "Manageengine-deviceexpert.png",
+      "html": [
+        "\\bchangepasswordpolicy\\b",
+        "password\\ manager\\ pro\\ does\\ not\\ allow",
+        "\\bselectpasswordpolicy\\b"
+      ],
+      "scriptSrc": [
+        "\\b/deviceexpert\\.js\\b"
+      ]
+    },
+    "Tightvnc": {
+      "cats": [
+        4
+      ],
+      "description": "tightvnc",
+      "website": "https://www.tightvnc.com/download.php",
+      "icon": "Tightvnc.png",
+      "html": [
+        "<a\\ href=\"http://www\\.tightvnc\\.com/\">www\\.tightvnc\\.com"
+      ],
+      "scriptSrc": [
+        "\\bjs/thinvnc\\.app\\.js\\b",
+        "\\bjs/thinvnc\\.sdk\\.js\\b"
+      ]
+    },
+    "Zhi-zhang-yi": {
+      "cats": [
+        4
+      ],
+      "description": "指掌易",
+      "website": "https://www.easepdf.com/ja/topics/convert-pdf-to-image.html",
+      "icon": "Zhi-zhang-yi.png",
+      "html": [
+        "server:\\ zzy_web"
+      ],
+      "scriptSrc": [
+        "\\bbuild/framework/js/download\\.js\\b"
+      ]
+    },
+    "Kampyle": {
+      "cats": [
+        4
+      ],
+      "description": "kampyle",
+      "website": "https://www.street.com.sg/street-directory/Bali-Lane/Kampong-Glam-Conservation-Area-13-Bali-Lane-Postal-Code-189849.html",
+      "icon": "Kampyle.png",
+      "html": [
+        "start\\ kampyle\\ feedback\\ form\\ button"
+      ],
+      "scriptSrc": [
+        "http://cf\\.kampyle\\.com/k_button\\.js"
+      ]
+    },
+    "Nsoc-bigdata": {
+      "cats": [
+        33
+      ],
+      "description": "nsoc-bigdata",
+      "website": "https://www.naver.com/",
+      "icon": "Nsoc-bigdata.png",
+      "html": [
+        "<b>nsoc云安全解决方案",
+        "<h2>nsoc大数据分析系统</h2>",
+        "src=\"/nfw/static/framework/images/views\\.png"
+      ]
+    },
+    "Npoint": {
+      "cats": [
+        4
+      ],
+      "description": "npoint",
+      "website": "https://www.zhihu.com/question/21040260",
+      "icon": "Npoint.png",
+      "html": [
+        "/inc/usercode\\.asp\\?npoint=",
+        "content=\"n点虚拟主机管理系统"
+      ],
+      "scriptSrc": [
+        "\\bjs/ajax_x\\.js\\b"
+      ]
+    },
+    "Huawei-secoway": {
+      "cats": [
+        26
+      ],
+      "description": "huawei-secoway",
+      "website": "https://www.youtube.com/?gl=IN",
+      "icon": "Huawei-secoway.png",
+      "html": [
+        "\\bsweb\\-lib/resource/\\b"
+      ],
+      "scriptSrc": [
+        "\\bsweb\\-lib/plat/login/login_new\\.js\\b"
+      ]
+    },
+    "Infomaster": {
+      "cats": [
+        4
+      ],
+      "description": "infomaster",
+      "website": "https://github.com/RVC-Boss/GPT-SoVITS",
+      "icon": "Infomaster.png",
+      "html": [
+        "\\b/masterview\\.css\\b",
+        "\\b/masterview/mpleftnavstyle/panelbar\\.mpifma\\.css\\b"
+      ],
+      "scriptSrc": [
+        "\\b/masterview\\.js\\b"
+      ]
+    },
+    "Mywebftp": {
+      "cats": [
+        4
+      ],
+      "description": "mywebftp",
+      "website": "https://www.reddit.com/r/kpoprants/comments/k4hii7/who_paved_the_way_for_kpop/",
+      "icon": "Mywebftp.png",
+      "html": [
+        ">mywebftp</a>",
+        "href='mwftp/common/mwftp\\.css"
+      ],
+      "scriptSrc": [
+        "\\bmwftp/common/mwftp\\.js\\b"
+      ]
+    },
+    "Hadoop-administration": {
+      "cats": [
+        4
+      ],
+      "description": "hadoop-administration",
+      "website": "https://hadoop.apache.org/",
+      "icon": "Hadoop-administration.png",
+      "html": [
+        "\\b/static/hadoop\\.css\\b",
+        "class=\"navbar\\-brand\">hadoop</div>"
+      ]
+    },
+    "Southidc": {
+      "cats": [
+        4
+      ],
+      "description": "southidc",
+      "website": "https://repository.penerbiteureka.com/publications/579455/prinsip-dasar-anatomi-fisiologi-manusia",
+      "icon": "Southidc.png",
+      "html": [
+        "content=\"copyright\\ 2003\\-2015\\ \\-\\ southidc\\.net"
+      ],
+      "scriptSrc": [
+        "\\b/southidcj2f\\.js\\b",
+        "\\b/southidckefu\\.js\\b"
+      ]
+    },
+    "Nexpose-security-console": {
+      "cats": [
+        33
+      ],
+      "description": "nexpose-security-console",
+      "website": "https://www.rapid7.com/ja/products/nexpose/",
+      "icon": "Nexpose-security-console.png",
+      "html": [
+        "\\b/nexpose\\-dark\\.min\\.css\\b",
+        "\\bnexposeccpassword\\b"
+      ],
+      "scriptSrc": [
+        "\\b/nexpose\\-features\\.js\\b"
+      ]
+    },
+    "Techbridge-cloud-conference": {
+      "cats": [
+        4
+      ],
+      "description": "techbridge-cloud-conference",
+      "website": "https://forum.truckersmp.com/index.php?/topic/54832-ets-2-hangi-galeri-hangi-şehirde/",
+      "icon": "Techbridge-cloud-conference.png",
+      "html": [
+        "\\b/images/web_meeting/tool_bg\\.jpg\\b",
+        "href=\"http://www\\.techbridge\\-inc\\.com/\"\\ target=\"_blank\"></a></span>"
+      ],
+      "scriptSrc": [
+        "\\b/joinmeeting\\.js\\b"
+      ]
+    },
+    "Yabb": {
+      "cats": [
+        4
+      ],
+      "description": "yabb",
+      "website": "https://tjscountry.forumotion.com/",
+      "icon": "Yabb.png",
+      "html": [
+        "yabbtime\\.gettime\\(\\)"
+      ],
+      "scriptSrc": [
+        "\\b/yabb\\.js\\b"
+      ]
+    },
+    "Secbi-product": {
+      "cats": [
+        4
+      ],
+      "description": "secbi-product",
+      "website": "https://www.greater.com.au/",
+      "icon": "Secbi-product.png",
+      "scriptSrc": [
+        "\\b/secbiutils\\.min\\.js\\b"
+      ]
+    }
+  }
+}
