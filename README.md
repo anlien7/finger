@@ -167,6 +167,6 @@ httpx -l urls.txt -td -cff finger.json
 ```
 ## 更新日志
 - [2026-08-17] 更新:
--本次更新从FingerprintHub里面指纹库格式转化为httpx可用的格式
+-本次更新从FingerprintHub里面指纹库格式转化为httpx可用的格式，新加入的json在fingerprinhub文件夹里面，合并之后的在finger.json文件里面。
 ```
 
